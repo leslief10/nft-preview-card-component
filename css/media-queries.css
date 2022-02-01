@@ -1,0 +1,28 @@
+@media only screen and (min-width: 750px) {
+  .preview-card {
+    width: 350px;
+    height: 596px;
+    padding: 24px;
+  }
+
+  .preview-card__image-container, .preview-card__image, .preview-card__image-container--overlay {
+    width: 302px;
+    height: 302px;
+  }
+
+  .preview-card__info-container p {
+    font-size: 1.8rem;
+  }
+
+  .preview-card__icons-container, hr {
+    width: 302px;
+  }
+
+  .preview-card__icons-container {
+    margin-top: 30px;
+  }
+
+  hr {
+    margin-top: 24px;
+  }
+}
