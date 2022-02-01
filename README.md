@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [NFT preview card component]()
+- Live Site URL: [NFT preview card component](https://leslief10.github.io/nft-preview-card-component/)
 
 ## My process
 
