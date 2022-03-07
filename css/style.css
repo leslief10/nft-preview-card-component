@@ -64,10 +64,6 @@ main {
   backface-visibility: hidden;
 }
 
-.preview-card__image-container:hover .preview-card__image {
-  opacity: 0.3;
-}
-
 .preview-card__image-container--overlay {
   position: absolute;
   top: 0%;
