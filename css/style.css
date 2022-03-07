@@ -86,11 +86,10 @@ main {
   height: 58px;
   object-fit: cover;
   border-radius: 15px;
-  filter: invert(100%) sepia(2%) saturate(100%) hue-rotate(196deg) brightness(105%) contrast(103%);
 }
 
 .preview-card__image-container--overlay:hover {
-  opacity: 0.5;
+  opacity: 0.9;
   background-color: var(--currency-color);
   cursor: pointer;
 }
